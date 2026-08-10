@@ -7,10 +7,9 @@ A Python project that monitors file integrity by scanning directories, hashing f
 - Scan a user-selected directory
 - Validate directory exists
 - Recursively enumerate all files and folders using `os.walk()`
-
+- SHA-256 hashing using `hashlib`
 ## Planned Features
 
-- SHA-256 hashing
 - JSON hash database
 - Detect modified files
 - Detect new files
