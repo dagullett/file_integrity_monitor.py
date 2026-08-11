@@ -1,6 +1,7 @@
 # File Integrity Monitor
 
-A Python project that monitors file integrity by scanning directories, hashing files, and detecting changes.
+- A Python project that monitors file integrity by scanning directories, hashing files, and detecting changes.
+- Please note to update the file path/name for storing your json in your required directory.
 
 ## Current Features
 
