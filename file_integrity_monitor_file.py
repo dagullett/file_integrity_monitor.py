@@ -18,7 +18,7 @@ def file_search(user_search):
     print()
 
     hash_stored_file = {}
-    json_hash_stores = "C:\\Users\\dgullett\\Desktop\\json_stores\\json_hash_stores.json"
+    json_hash_stores = "C:\\Users\\default_user\\Desktop\\json_stores\\json_hash_stores.json"
 
     for current_directory, sub_directories, files in os.walk(user_search):
     # Leaving these in for debugging future issues.
